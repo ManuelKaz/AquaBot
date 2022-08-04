@@ -1,6 +1,7 @@
  <img src="https://besthqwallpapers.com/Uploads/13-5-2021/168044/thumb2-happy-birthday-manuel-4k-blue-neon-lights-manuel-name-creative.jpg" alt="nz" width="350"/>
 Replicate 
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@MagmaGaming/AQUABOT-REPL#index.js)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)]
+(https://replit.com/@MagmaGaming/AQUABOT-REPL#index.js)
 
 ## Deploy
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/sanuwaofficial/AquaBot)
