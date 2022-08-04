@@ -1,4 +1,4 @@
- <h1 align="center"><b>https://besthqwallpapers.com/Uploads/29-12-2019/117221/thumb2-manuel-4k-wallpapers-with-names-horizontal-text-manuel-name.jpg</b></h1>
+ <img align="center"><b>https://besthqwallpapers.com/Uploads/29-12-2019/117221/thumb2-manuel-4k-wallpapers-with-names-horizontal-text-manuel-name.jpg</b></img>
 Replicate 
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@MagmaGaming/AQUABOT-REPL#index.js)
 
